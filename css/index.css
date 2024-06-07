@@ -51,7 +51,7 @@
 }
 
 #roadmap {
-	background-image: url('/assets/image/rouDe');
+	background-image: url('assets/image/rouDe');
 	background-size: cover;
 	background-position: center;
 	height: 150vh;
